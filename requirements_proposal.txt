@@ -1,5 +1,6 @@
 torch==2.1.2
 torchvision==0.16.2
+torchaudio==2.1.2
 ultralytics==8.2.20
 numpy>=1.23.5,<2.0.0
 matplotlib==3.8.2
